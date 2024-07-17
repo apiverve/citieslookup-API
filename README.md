@@ -74,7 +74,6 @@ api.execute(query, function (error, data) {
     "search": "San Francisco",
     "foundCities": [
       {
-        "cityId": 5391959,
         "name": "San Francisco",
         "altName": "",
         "country": "US",
@@ -89,7 +88,6 @@ api.execute(query, function (error, data) {
         }
       },
       {
-        "cityId": 3493146,
         "name": "San Francisco de Macorís",
         "altName": "",
         "country": "DO",
@@ -101,12 +99,9 @@ api.execute(query, function (error, data) {
             -70.25259,
             19.30099
           ]
-        },
-        "muni": "060101",
-        "muniSub": "06010101"
+        }
       },
       {
-        "cityId": 3986984,
         "name": "San Francisco del Rincón",
         "altName": "",
         "country": "MX",
@@ -121,7 +116,6 @@ api.execute(query, function (error, data) {
         }
       },
       {
-        "cityId": 5397765,
         "name": "South San Francisco",
         "altName": "",
         "country": "US",
@@ -136,7 +130,6 @@ api.execute(query, function (error, data) {
         }
       },
       {
-        "cityId": 3837675,
         "name": "San Francisco",
         "altName": "",
         "country": "AR",
@@ -151,7 +144,6 @@ api.execute(query, function (error, data) {
         }
       },
       {
-        "cityId": 3621911,
         "name": "San Francisco",
         "altName": "",
         "country": "CR",
@@ -163,11 +155,9 @@ api.execute(query, function (error, data) {
             -84.12934,
             9.99299
           ]
-        },
-        "muni": "40103"
+        }
       },
       {
-        "cityId": 3590219,
         "name": "San Francisco El Alto",
         "altName": "",
         "country": "GT",
@@ -182,7 +172,6 @@ api.execute(query, function (error, data) {
         }
       },
       {
-        "cityId": 3519290,
         "name": "San Francisco Acuautla",
         "altName": "",
         "country": "MX",
@@ -197,7 +186,6 @@ api.execute(query, function (error, data) {
         }
       },
       {
-        "cityId": 3827263,
         "name": "San Francisco Cuaxusco",
         "altName": "",
         "country": "MX",
@@ -212,7 +200,6 @@ api.execute(query, function (error, data) {
         }
       },
       {
-        "cityId": 3519249,
         "name": "San Francisco Tlalcilalcalpan",
         "altName": "",
         "country": "MX",
@@ -227,7 +214,6 @@ api.execute(query, function (error, data) {
         }
       },
       {
-        "cityId": 3583747,
         "name": "San Francisco",
         "altName": "",
         "country": "SV",
@@ -242,7 +228,6 @@ api.execute(query, function (error, data) {
         }
       },
       {
-        "cityId": 3986985,
         "name": "San Francisco de los Romo",
         "altName": "",
         "country": "MX",
@@ -257,7 +242,6 @@ api.execute(query, function (error, data) {
         }
       },
       {
-        "cityId": 3590197,
         "name": "San Francisco Zapotitlán",
         "altName": "",
         "country": "GT",
@@ -272,7 +256,6 @@ api.execute(query, function (error, data) {
         }
       },
       {
-        "cityId": 3522454,
         "name": "San Francisco Ocotlán",
         "altName": "",
         "country": "MX",
@@ -287,7 +270,6 @@ api.execute(query, function (error, data) {
         }
       },
       {
-        "cityId": 8858142,
         "name": "San Francisco Tecoxpa",
         "altName": "",
         "country": "MX",
@@ -302,7 +284,6 @@ api.execute(query, function (error, data) {
         }
       },
       {
-        "cityId": 3519255,
         "name": "San Francisco Telixtlahuaca",
         "altName": "",
         "country": "MX",
@@ -317,7 +298,6 @@ api.execute(query, function (error, data) {
         }
       },
       {
-        "cityId": 3519250,
         "name": "San Francisco Tetlanohcan",
         "altName": "",
         "country": "MX",
@@ -332,7 +312,6 @@ api.execute(query, function (error, data) {
         }
       },
       {
-        "cityId": 3530852,
         "name": "San Francisco Chimalpa",
         "altName": "",
         "country": "MX",
@@ -347,7 +326,6 @@ api.execute(query, function (error, data) {
         }
       },
       {
-        "cityId": 3706575,
         "name": "Altos de San Francisco",
         "altName": "",
         "country": "PA",
@@ -362,7 +340,6 @@ api.execute(query, function (error, data) {
         }
       },
       {
-        "cityId": 3519243,
         "name": "San Francisco Zacacalco",
         "altName": "",
         "country": "MX",
