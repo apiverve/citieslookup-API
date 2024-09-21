@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/citieslookup",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "Cities Lookup is a simple tool for looking up city data. It returns the city name, population, and more.",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/apiverve/citieslookup-API/issues"
   },
-  "homepage": "https://apiverve.com/marketplace/api/citieslookup",
+  "homepage": "https://apiverve.com/marketplace/api/citieslookup?utm_source=npm",
   "devDependencies": {
     "mocha": "^10.7.3",
     "chai": "^5.1.1",
@@ -27,6 +27,6 @@
   "dependencies": {
     "node-fetch": "^3.3.2",
     "promise": "^8.3.0",
-    "axios": "1.7.4"
+    "axios": "1.7.7"
   }
 }
